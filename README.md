@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 자격증
+- 프로그래밍 기능사 필기 합격
+
 <!--
 **twochae2026/twochae2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
